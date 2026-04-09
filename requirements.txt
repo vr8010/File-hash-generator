@@ -1,0 +1,7 @@
+# No external dependencies required
+# This project uses only Python standard library modules:
+# - hashlib (cryptographic hashing)
+# - os (file system operations)
+# - sys (system-specific parameters)
+
+# Python 3.6 or higher is required
