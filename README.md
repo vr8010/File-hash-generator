@@ -79,6 +79,7 @@ Learning cryptographic hashing concepts
 This tool is intended for educational and legitimate security purposes only.
 Always ensure you have proper authorization before analyzing files.
 
+                                    
 🤝 Contributing
 
 Contributions are welcome!
