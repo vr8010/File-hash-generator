@@ -8,7 +8,6 @@ import hashlib
 import os
 import sys
 
-
 def calculate_file_hash(file_path, hash_algorithm):
     """
     Calculate hash for a given file using specified algorithm.
